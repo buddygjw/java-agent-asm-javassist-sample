@@ -1,2 +1,4 @@
 .idea/
 *.iml
+agent/target/
+other/target/

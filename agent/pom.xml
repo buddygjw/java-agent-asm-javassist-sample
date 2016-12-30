@@ -15,14 +15,19 @@
 
   <dependencies>
     <dependency>
+      <groupId>asm-sample</groupId>
+      <artifactId>other</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm</artifactId>
-      <version>4.1</version>
+      <version>5.2</version>
     </dependency>
     <dependency>
       <groupId>org.javassist</groupId>
       <artifactId>javassist</artifactId>
-      <version>3.14.0-GA</version>
+      <version>3.21.0-GA</version>
     </dependency>
   </dependencies>
 
